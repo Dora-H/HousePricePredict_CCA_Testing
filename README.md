@@ -12,7 +12,7 @@
 
 ## Data Visualization
 Normal  
-Animation
+GIF Animation
 
 
 #### Read data(train.csv)
