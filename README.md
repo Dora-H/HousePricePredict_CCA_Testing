@@ -11,7 +11,7 @@
 
 
 ## Data Visualization
-Normal
+Normal  
 Animation
 
 
