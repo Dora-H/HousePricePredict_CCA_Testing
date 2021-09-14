@@ -11,6 +11,11 @@
 ● seaborn
 
 
+## Data Visualization
+Normal
+Animation
+
+
 #### Read data(train.csv)
     data = pd.read_csv("./train.csv")
 
